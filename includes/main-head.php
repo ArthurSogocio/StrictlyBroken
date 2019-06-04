@@ -1,0 +1,1 @@
+<link rel="stylesheet" type="text/css" href="<?php echo $folder ?>dist/css/jquery.dataTables.min.css">
